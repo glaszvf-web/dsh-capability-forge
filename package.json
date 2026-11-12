@@ -1,0 +1,29 @@
+{
+  "name": "dsh-capability-forge",
+  "version": "1.0.0",
+  "type": "module",
+  "private": false,
+  "description": "能力锻造套件：热插拔 provider（丢一个文件就是新工具）、缺口闭环（测试不过不放行）、软件自动化桥（Office / 达芬奇 / Adobe / C4D）。零依赖。",
+  "license": "MIT",
+  "author": "Aemeath",
+  "bin": {
+    "gap": "gaps/gaps.mjs",
+    "visual-audit": "tools/visual-audit.mjs",
+    "dsh-remove-bundle": "tools/remove-bundle.mjs"
+  },
+  "scripts": {
+    "test": "node test/smoke.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "dsh",
+    "agent",
+    "tool-registry",
+    "hot-plug",
+    "capability",
+    "office-com",
+    "extendscript"
+  ]
+}

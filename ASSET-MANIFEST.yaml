@@ -1,0 +1,113 @@
+# ASSET-MANIFEST.yaml
+# 每个文件的 sha256，用于核验下载/传输完整性。
+
+name: dsh-capability-forge
+version: 1.0.0
+license: MIT
+author: Aemeath
+generated: 2026-11-12T13:12:04.489Z
+file_count: 34
+total_bytes: 123879
+files:
+  - path: AEMEATH-ORIGIN.md
+    size: 1163
+    sha256: 4f025457b84ccf3bafaa43c922dafaa1eea69fe9dc07dd86fb8a6c26a211ebf7
+  - path: LICENSE
+    size: 1064
+    sha256: 33612438d5f300005a0c30fe1124d9f14f32e202587003e01e0a04ae48a71cfb
+  - path: README.md
+    size: 4186
+    sha256: b859750d042a2aa93bebe6cdbb74f09bd8980c0adb1ab58d395433052edb4a68
+  - path: dcc/README.md
+    size: 4086
+    sha256: bd2433951304b4b87aa30970a14d781342dfa5cabb3ff5010467af29289d57f8
+  - path: dcc/adobe/README.md
+    size: 3436
+    sha256: 987c2a76aa317cf5c46d81808f684a8afb723ffbee4e90e03ff462263fcab74b
+  - path: dcc/adobe/ae_probe.jsx
+    size: 2301
+    sha256: b0b26911dd44bdb8c051451b164d1f7a1fa7212c4a31ab9954e9935cfc452849
+  - path: dcc/adobe/ae_smoke.jsx
+    size: 2159
+    sha256: 011882ebcd7672bf46b2dafead86f200d509d7ecc4d6e43b153197ab55fd10a4
+  - path: dcc/adobe/ps_batch_resize.jsx
+    size: 3229
+    sha256: 56e37d2848a584e39f4b91364d1bf62e7b678782d0c87392f2cf58f9f56aee53
+  - path: dcc/c4d/README.md
+    size: 2859
+    sha256: 4dda03fa71a7efea51aa6696db04a7830c72a15bf346352f2721b1f40904df25
+  - path: dcc/office/office.py
+    size: 13196
+    sha256: e5b6f5c6f611b85fac0b32b8a66ba055b2524bf4dc3aebf1fb0e39caa3ed0367
+  - path: dcc/resolve/bridge.py
+    size: 8136
+    sha256: 20cf6d72d3f341e359a755ab88cb55ad0f7f20f9798e4c1f1d70ed7a4dbe89c6
+  - path: gaps/README.md
+    size: 3202
+    sha256: 3ab4d49d3b7a868a7d2015338a6754eededfcd1d8d7c2c577ec424fb37d5f3b7
+  - path: gaps/_demo-archive/g-20261109-001-rejected/SKILL.md
+    size: 499
+    sha256: b2d48e6a1ba586ecadc54b7cd9112e3acd369fffbbcaa8caa7801365bfc2c048
+  - path: gaps/_demo-archive/g-20261109-001-rejected/test.mjs
+    size: 748
+    sha256: 1d12f09c729a8a889902911d878e19c2f0bad4e2c704495adab6a3873b86df20
+  - path: gaps/_demo-archive/g-20261109-001-rejected/tool.mjs
+    size: 608
+    sha256: 67f0ca7a5ecd81898e8a5a40c46d315b9370dc2d56558f7e7b056b1acf4363e2
+  - path: gaps/_demo-archive/g-20261109-002-active/SKILL.md
+    size: 499
+    sha256: cb8b4a18c946978beb46f19d129422abbbdb26432af91c26e99ccd6ea1194857
+  - path: gaps/_demo-archive/g-20261109-002-active/test.mjs
+    size: 2956
+    sha256: c11c8149db18c542a99b2693eb1c11339b15fc259998badd65ff5b39dc96c167
+  - path: gaps/_demo-archive/g-20261109-002-active/tool.mjs
+    size: 3315
+    sha256: 781bf21d0f88fd4d30d44f2dc4a287b54d00c49ecc61904355fba64a1e8516da
+  - path: gaps/_demo-archive/gaps.jsonl.before-clean
+    size: 663
+    sha256: 7bd2237d4109c83dd8b15f33fc83ca8a5d99e31fee89d98f8e6d5e0d70b79a21
+  - path: gaps/gaps.jsonl
+    size: 1564
+    sha256: 9f94477768cfe9808e30922cf72326949049e6bdc103640f2d436b2ea12f90f3
+  - path: gaps/gaps.mjs
+    size: 12795
+    sha256: b481cdb8d12cee89aa5b5f40c6a0fb0855a548777b19e760f78faa4ad41dc0f1
+  - path: package.json
+    size: 725
+    sha256: a59c6d07e9aab1e6a6f30008adb595c4e28f596b265f1fa4419ef2b4c9863416
+  - path: providers/README.md
+    size: 1986
+    sha256: 3beb2fff2998b4e404e001cc0c16714ab2445e833c845f82d6d2c728086b85de
+  - path: providers/_registry.mjs
+    size: 7958
+    sha256: 54d52b31efbf64ff02e2866ca6239e3d1436302034712376ee61a999fc74e35c
+  - path: providers/_schema.mjs
+    size: 5494
+    sha256: 406cb7351c7a2960b7d446fddf854f21abcd7b9ddac6b69f28bbc30b272a79a7
+  - path: providers/dirstats.mjs
+    size: 3434
+    sha256: 1bb36ee0414542f2cd8d7f284153c6f73fbd0209f964aa1c6f103adc6b43e815
+  - path: providers/disk.mjs
+    size: 2205
+    sha256: 78cefbb36b6da5ea9b0d6da3d7ec8b41655acafd8c76b121a9990179dc0e6cd6
+  - path: providers/portscan.mjs
+    size: 4958
+    sha256: 7a06797e1153984aa13aa0446a6ff480683eab86be084d6a921e81f256a2eec2
+  - path: providers/procs.mjs
+    size: 2891
+    sha256: 6f7871942fe37a1d5258f6dd20ebd2773b3171e993413a252b6a6143bec070e9
+  - path: providers/recent.mjs
+    size: 3390
+    sha256: bf7211fe09810e574adf76b7310471deb4f99e6ea92ff066d3e394ae728d888d
+  - path: providers/sysinfo.mjs
+    size: 2409
+    sha256: 7efc7456cc2f1cc7704479ea6606819606942d81d6989ae92541df0d54d580bd
+  - path: test/smoke.mjs
+    size: 2378
+    sha256: be03aeff9e04c0628f692592b5f7b1d0e1a1bf630657c386d86f56c585ec2a3d
+  - path: tools/remove-bundle.mjs
+    size: 5262
+    sha256: ed0535a56d098c85a39f92d77db04d306a575308ab0516c53c717e36d367e102
+  - path: tools/visual-audit.mjs
+    size: 8125
+    sha256: aa866822df5f5d7e16ef195cadcf74054c83b5708ebc7538f5a534c2652f6084
